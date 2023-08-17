@@ -11,8 +11,6 @@ This project is dedicated to understanding and rectifying anomalies present in d
 
 ## Learning
 
-By participating in this project, you can expect to gain expertise in:
-
 - Identifying and rectifying anomalies within datasets.
 - Evaluating data columns for relevance and correctness.
 - Detecting and managing duplicate entries and missing data.
